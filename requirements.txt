@@ -1,3 +1,2 @@
-python==3.9.7
 numpy==1.23.5
 scipy==1.10.0
